@@ -304,7 +304,6 @@
         </config-file>
 
         <config-file parent="/*" target="AndroidManifest.xml">
-            <uses-permission android:name="android.permission.BLUETOOTH" />
             <uses-permission android:name="android.permission.BLUETOOTH_SCAN" />
             <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
         </config-file>
